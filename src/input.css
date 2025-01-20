@@ -11,3 +11,12 @@ body {
   margin: 0;
   padding: 0;
 }
+
+h1 {
+  font-family: "DM Serif Display"; /* Use DM Serif Display for headers */
+}
+
+a,
+p {
+  font-family: "Poppins", sans-serif;
+}
